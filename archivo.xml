@@ -1,0 +1,22 @@
+<paises>
+	<pais nombre="España">
+		<capital>Madrid</capital>
+		<superficie>505645</superficie>
+		<poblacion>47,1</poblacion>
+	</pais>
+	<pais nombre="Francia">
+		<capital>Paris</capital>
+		<superficie>675417</superficie>
+		<poblacion>66</poblacion>
+	</pais>
+	<pais nombre="Portugal">
+		<capital>Lisboa</capital>
+		<superficie>92391</superficie>
+		<poblacion>10,5</poblacion>
+	</pais>
+	<pais nombre="Italia">
+		<capital>Roma</capital>
+		<superficie>301338</superficie>
+		<poblacion>59,4</poblacion>
+	</pais>
+</paises>
